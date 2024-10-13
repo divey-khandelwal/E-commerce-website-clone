@@ -4,9 +4,9 @@
 I created this Amazon clone using HTML and CSS to mimic the design and layout of the Amazon website. The main purpose of this project was to practice and enhance my front-end development skills by replicating an e-commerce website interface.
 
 ## Features
-•	Responsive Layout: The page includes a navigation bar with a search bar, product display sections, and a footer.<br>
-•	Navigation: A button is implemented on the page that, when clicked, redirects users to another page, providing basic interactivity.<br>
-•	Clean Design: The overall look closely resembles Amazon’s design, focusing on user experience and a clear layout.
+•	**Responsive Layout:** The page includes a navigation bar with a search bar, product display sections, and a footer.<br>
+•	**Navigation:** A button is implemented on the page that, when clicked, redirects users to another page, providing basic interactivity.<br>
+•	**Clean Design:** The overall look closely resembles Amazon’s design, focusing on user experience and a clear layout.
 
 ## Purpose
 The goal of this project was to:<br>
