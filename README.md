@@ -5,7 +5,7 @@ I created this Amazon clone using HTML and CSS to mimic the design and layout of
 
 ## Features
 •	**Responsive Layout:** The page includes a navigation bar with a search bar, product display sections, and a footer.<br>
-•	**Navigation:** A button is implemented on the page that, when clicked, redirects users to another page, providing basic interactivity.<br>
+•	**Navigation:** A button of "Today's Deals" is implemented on the page. When clicked, this button redirects users to another page, providing basic interactivity. This functionality was implemented by linking a separate HTML file to ensure seamless navigation.<br>
 •	**Clean Design:** The overall look closely resembles Amazon’s design, focusing on user experience and a clear layout.
 
 ## Purpose
